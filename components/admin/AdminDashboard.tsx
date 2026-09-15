@@ -68,6 +68,7 @@ export default function AdminDashboard({ user }: AdminDashboardProps) {
           </div>
         </div>
       </header>
+      <h1>Aruna</h1>
 
       {/* Основной контент */}
       <main className="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
